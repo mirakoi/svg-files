@@ -1,25 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/style/styles.css" />
-    <title>svg-project</title>
-  </head>
-  <body>
-    <div class="container">
-      <svg height="300" width="600">
-        <polygon
-          points="10,10 250,250 200,300"
-          style="fill: red; stroke: black; stroke-width: 2"
-        />
-      </svg>
-    </div>
-
-    <!-- 
-    <div class="container">
-        <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="920.000000pt" height="905.000000pt" viewBox="0 0 920.000000 905.000000"
  preserveAspectRatio="xMidYMid meet">
 
@@ -49,7 +31,3 @@ fill="#000000" stroke="none">
 5 10 31 17 82 21 101 7 1848 10 1876 3z"/>
 </g>
 </svg>
-    </div>
-    -->
-  </body>
-</html>
