@@ -5,4 +5,9 @@ body {
 .container {
   width: 700px;
   height: 500px;
+  padding: 50px;
+}
+
+.symbol {
+    width: 200px;
 }
